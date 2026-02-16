@@ -1,0 +1,94 @@
+
+<li><i class="fa fa-folder fa-lg"></i><a>Windows 11 (中国定制版), version 23H2 (updated Dec 2023) (x64) - DVD (Chinese-Simplified)</a>
+<ul class="menu">
+ 
+	
+<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|Win11_23H2_China_GGK_Chinese_Simplified_x64v2.iso|6543112192|6E6979AE8C47A65F8FBA7A289AFF6520|/"><img class="bei" src="./css/ed2k.svg" /></a><a href="magnet:?xt=urn:btih:968e1c88d765ef51772768d78fdc268be087eb63&dn=Win11_23H2_China_GGK_Chinese_Simplified_x64v2.iso&xl=6543112192"><img class="bei" src="./css/bt.svg" /></a><i class="fa fa-info-circle" notes="说明实例"></i></li>	 
+<li><i class="fa fa-bullhorn"></i><a>文件：Win11_23H2_China_GGK_Chinese_Simplified_x64v2.iso</a></li>
+<li><i class="fa fa-bullhorn"></i><a>大小：6.09GB</a></li>
+<li><i class="fa fa-bullhorn"></i><a>MD5：99835F9F2EFEE5F30D0348F749484A88</a></li>
+<li><i class="fa fa-bullhorn"></i><a>SHA1：6DA961E47DBA91D1EDC568911C173A4D91195F40</a></li>
+<li><i class="fa fa-bullhorn"></i><a>SHA256：A6376789171DC1ADF73552BE5A4F573AC88A1845BC1622B2B7B4C3A1FD952ADE</a></li>
+
+
+
+
+<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Professional with Service Pack 3 (x86) - CD VL (Chinese-Simplified)</a>
+<ul class="menu">		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-KPJNh.html"
+		
+		"info": "文件：zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso---大小：601.04MB---SHA1：D142469D0C3953D8E4A6A490A58052EF52837F0F",
+		"type": "专业版-批量授权",
+		"bit": "32位",
+		"date": "2008-05-02"
+	
+		<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Professional with Service Pack 3 (x86) - CD (Chinese-Simplified)</a>
+		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_x14-80404.iso|630239232|CD0900AFA058ACB6345761969CBCBFF4|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-uPJNh.html"
+		
+		"info": "文件：zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_x14-80404.iso---大小：601.04MB---SHA1：69DBF131116760932DCF132ADE111D6B45778098",
+		"type": "专业版",
+		"bit": "32位",
+		"date": "2008-05-01"
+	
+		<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Home with Service Pack 3 (x86) - CD (Chinese-Simplified)</a>
+		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|zh-hans_windows_xp_home_with_service_pack_3_x86_cd_x14-92408.iso|611794944|81DC0766DFB4082E18F1985D535C14D6|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-UPJNh.html"
+		
+		"info": "文件：zh-hans_windows_xp_home_with_service_pack_3_x86_cd_x14-92408.iso---大小：583.45MB---SHA1：F15EF466B1D87B1FFDADC246B8CE82287BD15ED5",
+		"type": "家庭版",
+		"bit": "32位",
+		"date": "2008-05-01"
+	
+		<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Service Pack 3 (x86) - CD (Chinese-Simplified)</a>
+		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|zh-hans_windows_xp_service_pack_3_x86_cd_x14-60563.iso|417675264|2AAB7F0CD4BE378D9113557B1D24D8D0|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-SPJNh.html"
+		
+		"info": "文件：zh-hans_windows_xp_service_pack_3_x86_cd_x14-60563.iso---大小：398.33MB---SHA1：5566D7949E45C453964708831E16BCD73547F73B",
+		"type": "补丁更新整合包",
+		"bit": "32位",
+		"date": "2008-06-30"
+	
+		<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Tablet PC Edition 2005 (Simplified Chinese) - CD1</a>
+		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|sc_winxp_tablet_2005_CD1.iso|629227520|505B810E128351482AF8B83AC4D04FD2|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-lPJNh.html"
+		
+		"info": "文件：sc_winxp_tablet_2005_CD1.iso---大小：600.08MB---SHA1：92934976213BB9201057281A200F84127BE0050D",
+		"date": "2004-08-31"
+	
+		<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Tablet PC Edition 2005 (Simplified Chinese) - CD2</a>
+		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|sc_winxp_tablet_2005_CD2.iso|233066496|F691BBA9A376B281CDE19FD2E6EF36F9|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-7PJNh.html"
+		
+		"info": "文件：sc_winxp_tablet_2005_CD2.iso---大小：222.27MB---SHA1：31DA9C6D716AF4DC788496077709E274F8DE6820",
+		"date": "2004-08-31"
+	
+		<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Media Center Edition 2005 - CD1 (Simplified Chinese)</a>
+		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|sc_winxp_mce_2005_cd1.iso|630503424|454E21C270CC23993468BC141C093273|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-bPJNh.html"
+		
+		"info": "文件：sc_winxp_mce_2005_update2.iso---大小：29.04MB---SHA1：1C52FF0C7A672F6BEB2B043EA5269945C15507F9",
+		"date": "2004-10-08"
+	
+		<li><i class="fa fa-folder fa-lg"></i><a>Windows XP Media Center Edition 2005 - CD2 (Simplified Chinese)</a>
+		
+			<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|sc_winxp_mce_2005_cd2.iso|302485504|73377DDD3A9DE73AE5D8F20AAD734B10|/"><img class="bei" src="./css/ed2k.svg" /></a>
+			
+			"123云盘": "https://www.123pan.com/s/iBU9jv-ZPJNh.html"
+		
+		"info": "文件：sc_winxp_mce_2005_cd2.iso---大小：288.47MB---SHA1：01B8242AC47BC04D1940869D5B06FDFF30B370C6",
+		"date": "2004-10-08"

@@ -1,0 +1,21 @@
+
+<li><i class="fa fa-folder fa-lg"></i><a style="color:#07c160!important">Windows 11 (中国定制版), version 23H2 (updated Dec 2023) (x64) - DVD (Chinese-Simplified)</a>
+<ul class="menu">
+ 
+	
+<li><i class="fa fa-internet-explorer"></i><a href="ed2k://|file|Win11_23H2_China_GGK_Chinese_Simplified_x64v2.iso|6543112192|6E6979AE8C47A65F8FBA7A289AFF6520|/"><img class="bei" src="./css/ed2k.svg" /></a><a href="magnet:?xt=urn:btih:968e1c88d765ef51772768d78fdc268be087eb63&dn=Win11_23H2_China_GGK_Chinese_Simplified_x64v2.iso&xl=6543112192"><img class="bei" src="./css/bt.svg" /></a><i class="fa fa-info-circle" notes="说明实例"></i></li>	 
+<li><i class="fa fa-bullhorn"></i><a>文件：Win11_23H2_China_GGK_Chinese_Simplified_x64v2.iso</a></li>
+<li><i class="fa fa-bullhorn"></i><a>大小：6.09GB</a></li>
+<li><i class="fa fa-bullhorn"></i><a>MD5：99835F9F2EFEE5F30D0348F749484A88</a></li>
+<li><i class="fa fa-bullhorn"></i><a>SHA1：6DA961E47DBA91D1EDC568911C173A4D91195F40</a></li>
+<li><i class="fa fa-bullhorn"></i><a>SHA256：A6376789171DC1ADF73552BE5A4F573AC88A1845BC1622B2B7B4C3A1FD952ADE</a></li>
+
+
+
+
+
+
+
+
+ 
+</ul></li>
